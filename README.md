@@ -51,7 +51,5 @@ Join(L,R).
 ```
 O(log n) 5
 ```
-**Submit only the source code named as 1505xxx_splay.cpp or 1505xxx_splay.java, along
-with relevant source files. Executables or the project codes must not be submitted.
 
 
